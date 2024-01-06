@@ -1,0 +1,75 @@
+html {
+  background-color: #F7F8FA;
+  font-family: 'Mulish', sans-serif;
+}
+
+div.navbar.menu {
+  background-color: #062849;
+}
+
+.stackline-logo {
+  width: 7rem;
+  margin: 1.5rem 2rem;
+}
+
+.ui.container.container-body {
+  width: 98%;
+  margin: 7.5rem 1rem 1rem 1rem;
+  height: 100%;
+}
+
+.ui.segment.product {
+  background: #fff;
+  box-shadow: 5px 5px 5px #efefef;
+  border-radius: 0px;
+  border: 0px;
+}
+
+img.product-image {
+  padding: 5% 10%;
+  width: 80%;
+  display: block;
+}
+
+div.four.wide.column.product-info-column {
+  padding-right: 0px;
+}
+
+.ui.segment.product.product-info {
+  padding: 0;
+  height: 100dvh;
+}
+
+div.product-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.5rem;
+}
+
+p.product-title {
+  font-weight: 900;
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+p.product-description {
+  font-weight: 100;
+  font-size: 0.8rem;
+  margin-bottom: 0.2rem;
+  color: gray;
+}
+
+div.product-tags {
+  padding: 1rem;
+  border-bottom: 1px solid  #eff0f1;
+  border-top: 1px solid  #eff0f1;
+}
+
+.ui.basic.label {
+  padding: 0.3rem 1rem;
+  margin: 0.2rem 0.4rem 0.4rem 0rem;
+  font-weight: 100;
+  font-size: 0.8rem;
+  color: gray;
+}
