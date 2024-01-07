@@ -22,10 +22,9 @@ const Layout = () => (
           </Grid.Column>
           <Grid.Column className='product-sales-column' width={12}>
             <Segment className='product product-chart'>
-              <p>hi</p>
+              <p>Retail Sales</p>
               <ProductSalesChart />
             </Segment>
-            <Segment className='product product-table'>2</Segment>
           </Grid.Column>
         </Grid.Row>
       </Grid>
