@@ -57,7 +57,7 @@ p.product-description {
   font-weight: 100;
   font-size: 0.8rem;
   margin-bottom: 0.2rem;
-  color: gray;
+  color: #808080;
 }
 
 div.product-tags {
@@ -72,4 +72,8 @@ div.product-tags {
   font-weight: 100;
   font-size: 0.8rem;
   color: gray;
+}
+
+.ui.segment.product.product-chart {
+  height: 420px;
 }
